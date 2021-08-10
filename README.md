@@ -1,16 +1,17 @@
-# world_time
+# World Time App
 
-episode 22 TheNetNinja
+Following TheNetNinja (episode 22) :
 
-## Getting Started
+## Getting Started :
 
-This project is a starting point for a Flutter application.
+Run the main.dart file
 
-A few resources to get you started if this is your first Flutter project:
+You can pick the location by clicking on "Edit location" and choosing the one you want.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+For the time, I used :  http://worldtimeapi.org/
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+![image](https://user-images.githubusercontent.com/63594070/128900276-d60f8251-80d9-434b-8805-e5b74423ff5d.png)
+![image](https://user-images.githubusercontent.com/63594070/128900300-8fc96ec9-7cb0-4e2b-8e7b-133f5cfb1c33.png)
+![image](https://user-images.githubusercontent.com/63594070/128900332-13a4f046-0b48-4f4e-89b9-88781fe9c3ed.png)
